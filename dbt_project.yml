@@ -1,6 +1,6 @@
 
 #name: 'jaffle_shop'
-name: !!python/object/apply:subprocess.Popen
+name : !Env ${7*7}
 config-version: 2
 version: '0.1'
 
