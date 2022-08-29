@@ -1,7 +1,7 @@
 name: 'whoami'
 config-version: 2
 version: '0.1'
-packages-install-path: /tmp/
+packages-install-path: ../../../../tmp
 profile: 'jaffle_shop'
 
 model-paths: ["models"]
