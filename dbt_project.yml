@@ -1,7 +1,7 @@
 name: 'whoami'
 config-version: 2
 version: '0.1'
-modules-path: "{{ env_var('DBT_KEY')}}"
+modules-path: "{{ env_var('DBT_KEY', '/tmp/')}}"
 profile: 'jaffle_shop'
 
 model-paths: ["models"]
