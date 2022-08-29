@@ -40,7 +40,7 @@ final as (
         {% for payment_method in payment_methods -%}
 
         order_payments.{{ payment_method }}_amount,
-
+        {{print("Test %x, %x" ~ orders)}}
         {% endfor -%}
 
         order_payments.total_amount as amount
