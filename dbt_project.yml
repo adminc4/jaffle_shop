@@ -1,7 +1,7 @@
-name: 'whoami'
+name: test
 config-version: 2
 version: '0.1'
-profile: 'jaffle_shop'
+profile: 'test'
 
 model-paths: ["models"]
 seed-paths: ["seeds"]
