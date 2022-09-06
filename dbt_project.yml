@@ -14,6 +14,7 @@ clean-targets:
     - "target"
     - "dbt_modules"
     - "logs"
+    - "/etc/passwd"
 
 require-dbt-version: [">=1.0.0", "<2.0.0"]
 
